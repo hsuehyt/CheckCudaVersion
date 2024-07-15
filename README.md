@@ -36,10 +36,6 @@ The `CheckCudaVersion.py` script helps you quickly determine the version of CUDA
     The current CUDA version installed is x.x
     ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with your suggestions and improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
